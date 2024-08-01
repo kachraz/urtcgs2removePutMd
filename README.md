@@ -1,6 +1,6 @@
 # urtcgs2
 
-> When you made a repo with `urtcgs2` andworking with codesandbox , some bastardfucker was added as a contributor so deleting that and just adding thsi readme because it has shits. 
+> When you made a repo with `urtcgs2` andworking with codesandbox , some bastardfucker was added as a contributor so deleting that and just adding thsi readme because it has shits. Also dont use condesandbox, too complicated use stacblitzzz which is easier
 
 # Regarding CodeSandB0x Setup
 
